@@ -1,4 +1,4 @@
 # Deep-learning-Notes
 The following concepts are covered in this repo
 #### Perceptron 
-#### Neuron/Forward Propagation with Keras - binary classification
+#### Neuron/Forward Propagation with Keras - binaryclass classification and Multi-class classification
