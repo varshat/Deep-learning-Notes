@@ -1,3 +1,4 @@
 # Deep-learning-Notes
-Following concepts are covered in this repo
-## Perceptron 
+The following concepts are covered in this repo
+### Perceptron 
+### Neuron/Forward Propagation with Keras
